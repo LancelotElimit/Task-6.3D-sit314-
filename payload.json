@@ -1,0 +1,10 @@
+﻿{
+  "site": "siteA",
+  "room": "A101",
+  "deviceId": "cli-demo",
+  "lux": 123,
+  "occupancy_prob": 0.7,
+  "occupancy": true,
+  "light_state": 1,
+  "ts": 1759042125738
+}
